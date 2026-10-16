@@ -1,51 +1,41 @@
 <div align="center">
 
-# Hi, I'm Dhruv 👋
+# Hi, I'm Dhruv <img src="assets/ducks/hello.png" width="40" align="center" alt="" />
 
-### Cybersecurity student • Builder of bots & web apps
+<a href="https://github.com/Dhruv-Pratap-Chauhan"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Cybersecurity+student;Building+Telegram+bots;Building+web+apps;Breaking+things+to+understand+them" alt="Cybersecurity student • Builder of bots & web apps" /></a>
 
-Second-year B.Tech (Cybersecurity) at **UPES Dehradun**.
+Second-year B.Tech student in **Cybersecurity**.<br />
 I like breaking things to understand them — and building things that help people.
 
 </div>
 
 ---
 
-### 🚀 What I'm up to
+### What I do
 
-- 🛡️ Studying **cybersecurity** — networks, systems, and how they fail
-- 🤖 Building **Telegram bots** (my favourite playground)
-- 🌐 Actively coding **[kindera.co](https://kindera.co)** — a website for an NGO
-- 🛰️ Building **[lunarlens.online](https://lunarlens.online)** for **Smart India Hackathon 2026** — aligning multi-sensor Moon imagery from ISRO's **Chandrayaan-2**
-- 📚 Always learning something new
+- **Security** — learning how networks and systems work, and how they fail
+- **Telegram bots** — designing and building automation bots end to end
+- **Web apps** — building full-stack projects from scratch
 
-### 🧰 Tech I work with
+### Tech I work with
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="assets/tech-marquee.svg" alt="Tech I work with: Python, JavaScript, Telegram Bots, HTML5, CSS3, Node.js, Linux, Bash, Git" width="100%" />
 
-### 🔗 Connect with me
+### Connect
 
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xDhruv0007)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dhruvpratapchauhan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xDhruv0007)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhruvpratapchauhan)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/protoic)
 
-### 📊 My GitHub Activity
+### GitHub activity
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dhruv-Pratap-Chauhan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Dhruv-Pratap-Chauhan)
 
-</div>
-
-<div align="center">
-
-<sub>⚡ Currently focusing — building, learning, and shipping.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruv-Pratap-Chauhan/Dhruv-Pratap-Chauhan/output/github-snake-dark.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Dhruv-Pratap-Chauhan/Dhruv-Pratap-Chauhan/output/github-snake.svg" />
+</picture>
 
 </div>
